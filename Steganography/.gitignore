@@ -1,0 +1,23 @@
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Simulink Code Generation
+slprj/
+
+# Steganography video output
+*.avi
+*.mj2
+*.mp4
+
+# Ignore output files
+output/*
+results/*
+
+# Python
+*.py[cod]
